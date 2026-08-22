@@ -1,0 +1,22 @@
+{
+    "19 / august / 2026": {
+        "person 1": {
+            "NAME": "person1",
+            "SONO": "brain",
+            "PRICE": 800000,
+            "DATE": "19 / august / 2026"
+        },
+        "person 2": {
+            "NAME": "person 2",
+            "SONO": "kidny",
+            "PRICE": 900000,
+            "DATE": "19 / august / 2026"
+        },
+        "person 3": {
+            "NAME": "person 3",
+            "SONO": "thyroid",
+            "PRICE": 1100000,
+            "DATE": "19 / august / 2026"
+        }
+    }
+}
